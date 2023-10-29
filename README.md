@@ -257,4 +257,4 @@ Didapatkan hasil **R2** sebesar RR2: 0.9990714538624441 dan **RMSE** sebesar 7.8
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit: https://app-estimasi-kalori-6uvtqhsrumxwehtryvvznc.streamlit.app/
