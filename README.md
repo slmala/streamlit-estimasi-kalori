@@ -59,7 +59,6 @@ Link Dataset: [Dataset Kalori Fast-food](https://www.kaggle.com/datasets/sujayka
     ![image](EDA2.png)
     ![image](EDA3.png)
     ![image](EDA4.png)
-    ![image](EDA5.png)
 
 ## Data Preparation
 
