@@ -55,6 +55,12 @@ Link Dataset: [Dataset Kalori Fast-food](https://www.kaggle.com/datasets/sujayka
 - vit_c : angka vitamin B pada makanan
 - calcium : angka kalsium pada makanan.
 
+  ![image](EDA1.png)
+    ![image](EDA2.png)
+    ![image](EDA3.png)
+    ![image](EDA4.png)
+    ![image](EDA5.png)
+
 ## Data Preparation
 
 Pertama-tama import semua library yang dibutuhkan,
